@@ -3,7 +3,7 @@ function chothuepnp() {
 		var body_element = document.getElementsByTagName('body')[0];
 		var selection;
 		selection = window.getSelection();
-		var pagelink = "<br /><br />CHO THUÊ PNP;
+		var pagelink = "<br /><br />CHO THUÊ PNP";
 		var copytext = pagelink;
 		var newdiv = document.createElement('div');
 		
