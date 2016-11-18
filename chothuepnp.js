@@ -3,7 +3,7 @@ function chothuepnp() {
 		var body_element = document.getElementsByTagName('body')[0];
 		var selection;
 		selection = window.getSelection();
-		var pagelink = "<br /><br /> PNP Kính Chào Quý Khách! Đặt Thuê: 08 88 357 238 Truy Cập: <a href='"+document.location.href+"'>"+document.location.href+"</a>";
+		var pagelink = "<br /><br /> PNP Kính Chào Quý Khách Để Đặt Thuê Gọi: 08 88 357 238 Truy Cập: <a href='"+document.location.href+"'>"+document.location.href+"</a>";
 		var copytext = pagelink;
 		var newdiv = document.createElement('div');
 		
